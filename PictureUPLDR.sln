@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureUPLDR", "PictureUPLDR\PictureUPLDR.csproj", "{278E247F-60A0-471D-B627-FB81FC9FC8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{67B869C4-46E2-4BE2-A26F-5ACDE81F03B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278E247F-60A0-471D-B627-FB81FC9FC8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278E247F-60A0-471D-B627-FB81FC9FC8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278E247F-60A0-471D-B627-FB81FC9FC8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278E247F-60A0-471D-B627-FB81FC9FC8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B869C4-46E2-4BE2-A26F-5ACDE81F03B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B869C4-46E2-4BE2-A26F-5ACDE81F03B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B869C4-46E2-4BE2-A26F-5ACDE81F03B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B869C4-46E2-4BE2-A26F-5ACDE81F03B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
